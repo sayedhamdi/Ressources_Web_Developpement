@@ -2,9 +2,10 @@
 <hr>
 Speedtyping test game:<br>
 https://typing-speed-test.aoeu.eu/<br>
-
-online photoshop
-photopea.com
-
-cat game
-https://cat-bounce.com/
+<br>
+online photoshop<br>
+https://photopea.com<br>
+<br>
+Cat Game<br>
+https://cat-bounce.com/<br>
+<br>
